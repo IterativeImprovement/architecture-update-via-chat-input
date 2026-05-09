@@ -25,11 +25,11 @@ To run the project:
 
 All inputs are **case-insensitive**. The parser supports both space and comma delimiters.
 
-| Action | Supported inputs |
-|---|---|
-| Adding a named node | `addnode A`<br/>`add node A`<br/>`addnode,A`<br/>`add node,A`|
-| Adding an edge from sourceNode to destNode | `addedge sourceNode destNode`<br/>`add edge sourceNode destNode`<br/>`addedge,sourceNode,destNode`<br/>`add edge,sourceNode,destNode` |
-| Deleting a named node (and its connected edges) | `deletenode nodeName`<br/>`delete node nodeName`<br/>`delnode nodeName`<br/>`deletenode,nodeName`<br/>`delete node,nodeName` |
+| Action | Supported inputs                                                                                                                                                                    |
+|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Adding a named node | `addnode nodeName`<br/>`add node nodeName`<br/>`addnode,nodeName`<br/>`add node,nodeName`                                                                                           |
+| Adding an edge from sourceNode to destNode | `addedge sourceNode destNode`<br/>`add edge sourceNode destNode`<br/>`addedge,sourceNode,destNode`<br/>`add edge,sourceNode,destNode`                                               |
+| Deleting a named node (and its connected edges) | `deletenode nodeName`<br/>`delete node nodeName`<br/>`delnode nodeName`<br/>`deletenode,nodeName`<br/>`delete node,nodeName`                                                        |
 | Deleting an edge from sourceNode to destNode | `deleteedge sourceNode destNode`<br/>`delete edge sourceNode destNode`<br/>`deledge sourceNode destNode`<br/>`deleteedge,sourceNode,destNode`<br/>`delete edge,sourceNode,destNode` |
 ---
 
