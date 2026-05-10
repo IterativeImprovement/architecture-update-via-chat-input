@@ -12,12 +12,15 @@ This application is a take-home assignment for CyberSG.
 This project is built with [Vite](https://vitejs.dev/) and [React](https://react.dev/).
 
 To run the project:
-1. Navigate to the root directory of the project in terminal.
+1. Download and unzip the project folder.
+2. Navigate to the root directory of the project in terminal.
 2. Run `npm run dev`.
-3. Access the application at `http://localhost:5173/` (default port for Vite applications).
+3. Access the application at `http://localhost:5173/` (default port for Vite applications), or at the given port.
 
 
 > Ensure [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) are installed before running.
+ 
+>Windows may block local scripts from running. If so, you would need to update your [PowerShell Execution Policy](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.6) to allow them.
 
 ---
 
