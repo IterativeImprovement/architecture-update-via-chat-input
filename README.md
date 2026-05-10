@@ -14,8 +14,9 @@ This project is built with [Vite](https://vitejs.dev/) and [React](https://react
 To run the project:
 1. Download and unzip the project folder.
 2. Navigate to the root directory of the project in terminal.
-2. Run `npm run dev`.
-3. Access the application at `http://localhost:5173/` (default port for Vite applications), or at the given port.
+3. Run `npm install` to install project dependencies.
+4. Run `npm run dev` to launch the project locally.
+3. Access the application at `http://localhost:5173/` (default port for Vite applications), or at the port given in the terminal.
 
 
 > Ensure [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) are installed before running.
