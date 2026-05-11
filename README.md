@@ -64,4 +64,4 @@ All inputs are **case-insensitive**. The parser supports both space and comma de
 
 **Adding a Simulation**
 
-The application is well-positioned to support simulation, leveraging existing functions to add or remove nodes and edges. Additional work would be required to cache edges deleted alongside their connecting nodes, enabling safe forward and backward stepping through the simulation.
+The application can easily be expanded to support simulation, utilising existing functions to add or remove nodes and edges. Additional work would be required to cache edges deleted alongside their connecting nodes, enabling safe forward and backward stepping through the simulation.
