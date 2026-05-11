@@ -1,6 +1,6 @@
 # Architecture Update via Chat Input
 
-**Author:** CSY (Github: Iterative Improvement)
+**Author:** CSY (Github: Iterative Improvement)  
 **Date:** May 2026
 
 This application is a take-home assignment for CyberSG.
